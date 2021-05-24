@@ -45,6 +45,7 @@ city.addAnimation("city",cityAnimation2)
  
   logGroup1.add(log.spt)
 }
+ 
 player = new player (width/2, height - 25)
  }
 function draw() {
